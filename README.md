@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Senior @softwaredeveloper<br>〰️ Teacher<br>🚀 Founder @webicroyazilim<br>💪 Life of a developer<br>🎯 Microsoft / .NET<br>💡 mkanbaz@webicro.com
+👨‍💻 Senior Software Developer<br>〰️ Teacher<br>🚀 Founder @webicroyazilim<br>🎯 Microsoft / .NET<br>💡 mkanbaz@webicro.com
 
 
 ## 🌐 Socials:
